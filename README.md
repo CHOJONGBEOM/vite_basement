@@ -1,3 +1,8 @@
+# Vite에 tailwind를 설치한 베이스먼트 파일입니다
+### 포크 후 터미널에서 npm install 명령어를 꼭 실행헤주세요
+언제든 동일한 설정의 개발환경을 세팅할 수 있습니다.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
